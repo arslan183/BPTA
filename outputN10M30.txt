@@ -1,0 +1,5 @@
+n = 10
+m = 30
+Minimum Vertex Cover: [0, 1, 2, 3, 4, 6, 7]
+Size: 7
+Running time is 0.004182400065474212
